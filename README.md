@@ -1,2 +1,4 @@
 # csws-week1
-This is the tutorial for Week 1 Computer Science (page 1)
+Week1 lab
+
+week1.py - contains hello world text
